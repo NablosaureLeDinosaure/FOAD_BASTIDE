@@ -1661,7 +1661,7 @@
 											"top": 505,
 											"width": 176,
 											"height": 15,
-											"text": "+visit(Book bk)",
+											"text": "+visit(Book book)",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1779,7 +1779,7 @@
 											"parentStyle": true,
 											"left": 1013,
 											"top": 503,
-											"width": 86.61083984375,
+											"width": 101.07080078125,
 											"height": 13,
 											"text": "ItemPrinter"
 										},
@@ -1817,7 +1817,7 @@
 									"parentStyle": true,
 									"left": 1008,
 									"top": 496,
-									"width": 96.61083984375,
+									"width": 111.07080078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGLGQRtbM4L+u4="
@@ -1845,7 +1845,7 @@
 									"parentStyle": true,
 									"left": 1008,
 									"top": 521,
-									"width": 96.61083984375,
+									"width": 111.07080078125,
 									"height": 10
 								},
 								{
@@ -1871,9 +1871,9 @@
 											"parentStyle": true,
 											"left": 1013,
 											"top": 536,
-											"width": 86.61083984375,
+											"width": 101.07080078125,
 											"height": 13,
-											"text": "+visit(Book bk)",
+											"text": "+visit(Book book)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1889,7 +1889,7 @@
 											"parentStyle": true,
 											"left": 1013,
 											"top": 551,
-											"width": 86.61083984375,
+											"width": 101.07080078125,
 											"height": 13,
 											"text": "+visit(CD cd)",
 											"horizontalAlignment": 0
@@ -1899,7 +1899,7 @@
 									"parentStyle": true,
 									"left": 1008,
 									"top": 531,
-									"width": 96.61083984375,
+									"width": 111.07080078125,
 									"height": 38
 								},
 								{
@@ -1942,7 +1942,7 @@
 							"containerChangeable": true,
 							"left": 1008,
 							"top": 496,
-							"width": 95.61083984375,
+							"width": 110.07080078125,
 							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAGLGQRtbM4K90k="
@@ -2102,7 +2102,7 @@
 											"parentStyle": true,
 											"left": 901,
 											"top": 655,
-											"width": 86.61083984375,
+											"width": 101.07080078125,
 											"height": 13,
 											"text": "CDPrinter"
 										},
@@ -2140,7 +2140,7 @@
 									"parentStyle": true,
 									"left": 896,
 									"top": 648,
-									"width": 96.61083984375,
+									"width": 111.07080078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGLGQSrvNBlla8="
@@ -2168,7 +2168,7 @@
 									"parentStyle": true,
 									"left": 896,
 									"top": 673,
-									"width": 96.61083984375,
+									"width": 111.07080078125,
 									"height": 10
 								},
 								{
@@ -2194,9 +2194,9 @@
 											"parentStyle": true,
 											"left": 901,
 											"top": 688,
-											"width": 86.61083984375,
+											"width": 101.07080078125,
 											"height": 13,
-											"text": "+visit(Book bk)",
+											"text": "+visit(Book book)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2212,7 +2212,7 @@
 											"parentStyle": true,
 											"left": 901,
 											"top": 703,
-											"width": 86.61083984375,
+											"width": 101.07080078125,
 											"height": 13,
 											"text": "+visit(CD cd)",
 											"horizontalAlignment": 0
@@ -2222,7 +2222,7 @@
 									"parentStyle": true,
 									"left": 896,
 									"top": 683,
-									"width": 96.61083984375,
+									"width": 111.07080078125,
 									"height": 38
 								},
 								{
@@ -2265,7 +2265,7 @@
 							"containerChangeable": true,
 							"left": 896,
 							"top": 648,
-							"width": 95.61083984375,
+							"width": 110.07080078125,
 							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAGLGQSrvNBkA/U="
@@ -2326,7 +2326,7 @@
 											"parentStyle": true,
 											"left": 1061,
 											"top": 655,
-											"width": 86.61083984375,
+											"width": 101.07080078125,
 											"height": 13,
 											"text": "BookPrinter"
 										},
@@ -2364,7 +2364,7 @@
 									"parentStyle": true,
 									"left": 1056,
 									"top": 648,
-									"width": 96.61083984375,
+									"width": 111.07080078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGLGQTfA9EOW2Y="
@@ -2392,7 +2392,7 @@
 									"parentStyle": true,
 									"left": 1056,
 									"top": 673,
-									"width": 96.61083984375,
+									"width": 111.07080078125,
 									"height": 10
 								},
 								{
@@ -2418,9 +2418,9 @@
 											"parentStyle": true,
 											"left": 1061,
 											"top": 688,
-											"width": 86.61083984375,
+											"width": 101.07080078125,
 											"height": 13,
-											"text": "+visit(Book bk)",
+											"text": "+visit(Book book)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2436,7 +2436,7 @@
 											"parentStyle": true,
 											"left": 1061,
 											"top": 703,
-											"width": 86.61083984375,
+											"width": 101.07080078125,
 											"height": 13,
 											"text": "+visit(CD cd)",
 											"horizontalAlignment": 0
@@ -2446,7 +2446,7 @@
 									"parentStyle": true,
 									"left": 1056,
 									"top": 683,
-									"width": 96.61083984375,
+									"width": 111.07080078125,
 									"height": 38
 								},
 								{
@@ -2489,7 +2489,7 @@
 							"containerChangeable": true,
 							"left": 1056,
 							"top": 648,
-							"width": 95.61083984375,
+							"width": 110.07080078125,
 							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAGLGQTfA9EN6ds="
@@ -2810,7 +2810,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1064,
+									"left": 1072,
 									"top": 606,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2832,7 +2832,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1050,
+									"left": 1058,
 									"top": 611,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2854,7 +2854,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1093,
+									"left": 1101,
 									"top": 597,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2874,7 +2874,7 @@
 								"$ref": "AAAAAAGLGQTfA9EMy20="
 							},
 							"lineStyle": 1,
-							"points": "1091:647;1067:570",
+							"points": "1099:647;1075:570",
 							"showVisibility": true,
 							"showProperty": false,
 							"nameLabel": {
@@ -2909,7 +2909,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 986,
+									"left": 994,
 									"top": 592,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2931,7 +2931,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 974,
+									"left": 982,
 									"top": 583,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2953,7 +2953,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1009,
+									"left": 1017,
 									"top": 611,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2973,7 +2973,7 @@
 								"$ref": "AAAAAAGLGQSrvNBjkRc="
 							},
 							"lineStyle": 1,
-							"points": "970:647;1027:570",
+							"points": "978:647;1035:570",
 							"showVisibility": true,
 							"showProperty": false,
 							"nameLabel": {
@@ -3332,8 +3332,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGLGQOOA8w94X4="
 									},
-									"name": "Book bk",
-									"type": ""
+									"name": "Book book"
 								}
 							]
 						}
@@ -3361,8 +3360,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGLGQXVm9ovBYY="
 									},
-									"name": "Book bk",
-									"type": ""
+									"name": "Book book"
 								}
 							]
 						},
@@ -3409,8 +3407,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGLGQZz1N64zpk="
 									},
-									"name": "Book bk",
-									"type": ""
+									"name": "Book book"
 								}
 							]
 						},
@@ -3457,8 +3454,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGLGQbGG+FmZJc="
 									},
-									"name": "Book bk",
-									"type": ""
+									"name": "Book book"
 								}
 							]
 						},
